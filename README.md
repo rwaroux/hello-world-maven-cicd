@@ -1,2 +1,3 @@
-# hello-world-maven-cicd
-Formation cicd
+# maven-project
+
+Simple Maven Project
