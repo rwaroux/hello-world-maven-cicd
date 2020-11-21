@@ -1,1 +1,2 @@
-<h1>Hello from rémi.</h1>
+<h1>Hello CI/CD</h1>
+<small>By remi</small>
